@@ -16,7 +16,7 @@ To run and interact with this program, you can use Remix, an online Solidity Int
 
 3. Save the file with a .sol extension (e.g., CeeToken.sol).
 
-4. Copy and paste the provided Solidity code in the link https://github.com/Cee0x01/MyEth_ProofLessons/blob/main/CeeToken.sol and paste into the newly created file.
+4. Copy and paste the provided Solidity code in the link https://github.com/Cee0x1/EthProofLessons/blob/main/CeeToken.sol and paste into the newly created file.
 
 5. Compile the code by clicking on the "Solidity Compiler" tab in the left-hand sidebar. Ensure that the "Compiler" option is set to "0.8.18" (or another compatible version), and then click on the "Compile IgbaniToken.sol" button.
 
@@ -33,7 +33,7 @@ To run and interact with this program, you can use Remix, an online Solidity Int
 ## Author
 
 - Gospel
-  - GitHub: [@Cee0x01](https://github.com/Cee0x01)
+  - GitHub: [@Cee0x1](https://github.com/Cee0x1)
 
 ## License
 

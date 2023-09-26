@@ -32,7 +32,7 @@ To run and interact with this program, you can use Remix, an online Solidity Int
 
 ## Author
 
-- Gospel
+- Confidence
   - GitHub: [@Cee0x1](https://github.com/Cee0x1)
 
 ## License
